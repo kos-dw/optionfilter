@@ -1,6 +1,6 @@
 {
   "name": "stamper",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "main": "src/index.esm.ts",
   "private": true,
   "type": "module",
